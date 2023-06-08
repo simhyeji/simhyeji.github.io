@@ -7,6 +7,8 @@ title: About me
 My name is Sim Hyeji. I have the following qualities:
 
 - Backend Engineer
+- email : simhyeji70@naver.com
+- Git : https://github.com/simhyeji
 
 
 
