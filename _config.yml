@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   email: "simhyeji70@naver.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: "https://simhyeji.github.io"
+  github: simhyeji
   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
